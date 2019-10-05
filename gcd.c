@@ -1,4 +1,7 @@
 // Code to find the GCD of two given numbers
+// This problem can be solved in two methods
+// one is done below
+// the other is using euclids algorithm
 
 
 #include <stdio.h>
